@@ -1,0 +1,14 @@
+C:\Users\craskar\source\repos\Iteration1_FileExceptionHandling\Iteration1_FileExceptionHandling\bin\Debug\net8.0\Iteration1_FileExceptionHandling.exe
+C:\Users\craskar\source\repos\Iteration1_FileExceptionHandling\Iteration1_FileExceptionHandling\bin\Debug\net8.0\Iteration1_FileExceptionHandling.deps.json
+C:\Users\craskar\source\repos\Iteration1_FileExceptionHandling\Iteration1_FileExceptionHandling\bin\Debug\net8.0\Iteration1_FileExceptionHandling.runtimeconfig.json
+C:\Users\craskar\source\repos\Iteration1_FileExceptionHandling\Iteration1_FileExceptionHandling\bin\Debug\net8.0\Iteration1_FileExceptionHandling.dll
+C:\Users\craskar\source\repos\Iteration1_FileExceptionHandling\Iteration1_FileExceptionHandling\bin\Debug\net8.0\Iteration1_FileExceptionHandling.pdb
+C:\Users\craskar\source\repos\Iteration1_FileExceptionHandling\Iteration1_FileExceptionHandling\obj\Debug\net8.0\Iteration1_FileExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\craskar\source\repos\Iteration1_FileExceptionHandling\Iteration1_FileExceptionHandling\obj\Debug\net8.0\Iteration1_FileExceptionHandling.AssemblyInfoInputs.cache
+C:\Users\craskar\source\repos\Iteration1_FileExceptionHandling\Iteration1_FileExceptionHandling\obj\Debug\net8.0\Iteration1_FileExceptionHandling.AssemblyInfo.cs
+C:\Users\craskar\source\repos\Iteration1_FileExceptionHandling\Iteration1_FileExceptionHandling\obj\Debug\net8.0\Iteration1_FileExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\craskar\source\repos\Iteration1_FileExceptionHandling\Iteration1_FileExceptionHandling\obj\Debug\net8.0\Iteration1_FileExceptionHandling.dll
+C:\Users\craskar\source\repos\Iteration1_FileExceptionHandling\Iteration1_FileExceptionHandling\obj\Debug\net8.0\refint\Iteration1_FileExceptionHandling.dll
+C:\Users\craskar\source\repos\Iteration1_FileExceptionHandling\Iteration1_FileExceptionHandling\obj\Debug\net8.0\Iteration1_FileExceptionHandling.pdb
+C:\Users\craskar\source\repos\Iteration1_FileExceptionHandling\Iteration1_FileExceptionHandling\obj\Debug\net8.0\Iteration1_FileExceptionHandling.genruntimeconfig.cache
+C:\Users\craskar\source\repos\Iteration1_FileExceptionHandling\Iteration1_FileExceptionHandling\obj\Debug\net8.0\ref\Iteration1_FileExceptionHandling.dll

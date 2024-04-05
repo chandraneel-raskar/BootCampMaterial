@@ -1,0 +1,14 @@
+C:\Users\craskar\source\repos\SolidBankingApp\SolidBankingApp\obj\Debug\net8.0\SolidBankingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\craskar\source\repos\SolidBankingApp\SolidBankingApp\obj\Debug\net8.0\SolidBankingApp.AssemblyInfoInputs.cache
+C:\Users\craskar\source\repos\SolidBankingApp\SolidBankingApp\obj\Debug\net8.0\SolidBankingApp.AssemblyInfo.cs
+C:\Users\craskar\source\repos\SolidBankingApp\SolidBankingApp\obj\Debug\net8.0\SolidBankingApp.csproj.CoreCompileInputs.cache
+C:\Users\craskar\source\repos\SolidBankingApp\SolidBankingApp\bin\Debug\net8.0\SolidBankingApp.exe
+C:\Users\craskar\source\repos\SolidBankingApp\SolidBankingApp\bin\Debug\net8.0\SolidBankingApp.deps.json
+C:\Users\craskar\source\repos\SolidBankingApp\SolidBankingApp\bin\Debug\net8.0\SolidBankingApp.runtimeconfig.json
+C:\Users\craskar\source\repos\SolidBankingApp\SolidBankingApp\bin\Debug\net8.0\SolidBankingApp.dll
+C:\Users\craskar\source\repos\SolidBankingApp\SolidBankingApp\bin\Debug\net8.0\SolidBankingApp.pdb
+C:\Users\craskar\source\repos\SolidBankingApp\SolidBankingApp\obj\Debug\net8.0\SolidBankingApp.dll
+C:\Users\craskar\source\repos\SolidBankingApp\SolidBankingApp\obj\Debug\net8.0\refint\SolidBankingApp.dll
+C:\Users\craskar\source\repos\SolidBankingApp\SolidBankingApp\obj\Debug\net8.0\SolidBankingApp.pdb
+C:\Users\craskar\source\repos\SolidBankingApp\SolidBankingApp\obj\Debug\net8.0\SolidBankingApp.genruntimeconfig.cache
+C:\Users\craskar\source\repos\SolidBankingApp\SolidBankingApp\obj\Debug\net8.0\ref\SolidBankingApp.dll

@@ -1,0 +1,14 @@
+C:\Users\craskar\source\repos\DesignPatternWkshp\DesignPatternWkshp2\bin\Debug\net8.0\DesignPatternWkshp2.exe
+C:\Users\craskar\source\repos\DesignPatternWkshp\DesignPatternWkshp2\bin\Debug\net8.0\DesignPatternWkshp2.deps.json
+C:\Users\craskar\source\repos\DesignPatternWkshp\DesignPatternWkshp2\bin\Debug\net8.0\DesignPatternWkshp2.runtimeconfig.json
+C:\Users\craskar\source\repos\DesignPatternWkshp\DesignPatternWkshp2\bin\Debug\net8.0\DesignPatternWkshp2.dll
+C:\Users\craskar\source\repos\DesignPatternWkshp\DesignPatternWkshp2\bin\Debug\net8.0\DesignPatternWkshp2.pdb
+C:\Users\craskar\source\repos\DesignPatternWkshp\DesignPatternWkshp2\obj\Debug\net8.0\DesignPatternWkshp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\craskar\source\repos\DesignPatternWkshp\DesignPatternWkshp2\obj\Debug\net8.0\DesignPatternWkshp2.AssemblyInfoInputs.cache
+C:\Users\craskar\source\repos\DesignPatternWkshp\DesignPatternWkshp2\obj\Debug\net8.0\DesignPatternWkshp2.AssemblyInfo.cs
+C:\Users\craskar\source\repos\DesignPatternWkshp\DesignPatternWkshp2\obj\Debug\net8.0\DesignPatternWkshp2.csproj.CoreCompileInputs.cache
+C:\Users\craskar\source\repos\DesignPatternWkshp\DesignPatternWkshp2\obj\Debug\net8.0\DesignPatternWkshp2.dll
+C:\Users\craskar\source\repos\DesignPatternWkshp\DesignPatternWkshp2\obj\Debug\net8.0\refint\DesignPatternWkshp2.dll
+C:\Users\craskar\source\repos\DesignPatternWkshp\DesignPatternWkshp2\obj\Debug\net8.0\DesignPatternWkshp2.pdb
+C:\Users\craskar\source\repos\DesignPatternWkshp\DesignPatternWkshp2\obj\Debug\net8.0\DesignPatternWkshp2.genruntimeconfig.cache
+C:\Users\craskar\source\repos\DesignPatternWkshp\DesignPatternWkshp2\obj\Debug\net8.0\ref\DesignPatternWkshp2.dll

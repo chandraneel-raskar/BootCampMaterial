@@ -1,0 +1,46 @@
+[
+  {
+    "VehicleId": "1",
+    "DisplayName": "Test Vehicle1",
+    "RegistrationNumber": "MH12AB1234",
+    "VIN": "VIN2132324343",
+    "ContactNumber": "1234567890",
+    "VehicleModel": "TRUCK",
+    "TrackingUnitId": "TU11111111111",
+    "CreatedDateTime": "2021-07-08T10:22:06.8650948+05:30",
+    "UpdatedDateTime": "2021-07-08T10:22:06.8650948+05:30"
+  },
+  {
+    "VehicleId": "2",
+    "DisplayName": "Test Vehicle2",
+    "RegistrationNumber": "MH14AB1235",
+    "VIN": "VIN213234345",
+    "ContactNumber": "098765432",
+    "VehicleModel": "TRAILER",
+    "TrackingUnitId": "TU222222222222",
+    "CreatedDateTime": "2021-07-08T10:22:06.8650948+05:30",
+    "UpdatedDateTime": "2021-07-08T10:22:06.8650948+05:30"
+  },
+  {
+    "VehicleId": "3",
+    "DisplayName": "Test Vehicle3",
+    "RegistrationNumber": "MH35AB1234",
+    "VIN": "VIN2132324444",
+    "ContactNumber": "543543656",
+    "VehicleModel": "TRUCK",
+    "TrackingUnitId": "TU333333333355",
+    "CreatedDateTime": "0001-01-01T00:00:00",
+    "UpdatedDateTime": "2024-02-23T09:30:07.2452319+05:30"
+  },
+  {
+    "VehicleId": "4",
+    "DisplayName": "Neel",
+    "RegistrationNumber": "MIC348",
+    "VIN": "MH12UR7848",
+    "ContactNumber": "321498465",
+    "VehicleModel": "54",
+    "TrackingUnitId": null,
+    "CreatedDateTime": "2024-02-23T12:05:35.9994976+05:30",
+    "UpdatedDateTime": "2024-02-23T12:05:35.9994976+05:30"
+  }
+]

@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Docs\\Training\\Intro_To_Visual_Studio_Debugging\\Intro_To_Visual_Studio_Debugging\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF4FA99-8BFB-4CE5-89A0-3AABB8F467CE}|IntroToVisualStudioDebugging\\IntroToVisualStudioDebugging.csproj|d:\\docs\\training\\intro_to_visual_studio_debugging\\intro_to_visual_studio_debugging\\introtovisualstudiodebugging\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF4FA99-8BFB-4CE5-89A0-3AABB8F467CE}|IntroToVisualStudioDebugging\\IntroToVisualStudioDebugging.csproj|solutionrelative:introtovisualstudiodebugging\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|IntroToVisualStudioDebugging||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF4FA99-8BFB-4CE5-89A0-3AABB8F467CE}|IntroToVisualStudioDebugging\\IntroToVisualStudioDebugging.csproj|D:\\Docs\\Training\\Intro_To_Visual_Studio_Debugging\\Intro_To_Visual_Studio_Debugging\\introtovisualstudiodebugging\\vehicles.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0EF4FA99-8BFB-4CE5-89A0-3AABB8F467CE}|IntroToVisualStudioDebugging\\IntroToVisualStudioDebugging.csproj|solutionrelative:introtovisualstudiodebugging\\vehicles.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF4FA99-8BFB-4CE5-89A0-3AABB8F467CE}|IntroToVisualStudioDebugging\\IntroToVisualStudioDebugging.csproj|d:\\docs\\training\\intro_to_visual_studio_debugging\\intro_to_visual_studio_debugging\\introtovisualstudiodebugging\\vehicles_backup.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0EF4FA99-8BFB-4CE5-89A0-3AABB8F467CE}|IntroToVisualStudioDebugging\\IntroToVisualStudioDebugging.csproj|solutionrelative:introtovisualstudiodebugging\\vehicles_backup.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF4FA99-8BFB-4CE5-89A0-3AABB8F467CE}|IntroToVisualStudioDebugging\\IntroToVisualStudioDebugging.csproj|d:\\docs\\training\\intro_to_visual_studio_debugging\\intro_to_visual_studio_debugging\\introtovisualstudiodebugging\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0EF4FA99-8BFB-4CE5-89A0-3AABB8F467CE}|IntroToVisualStudioDebugging\\IntroToVisualStudioDebugging.csproj|solutionrelative:introtovisualstudiodebugging\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D73967C-2CFA-4ACF-A525-D8678055A82D}|VehicleDataManagerLibrary\\VehicleDataManagerLibrary.csproj|D:\\Docs\\Training\\Intro_To_Visual_Studio_Debugging\\Intro_To_Visual_Studio_Debugging\\vehicledatamanagerlibrary\\vehicledatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D73967C-2CFA-4ACF-A525-D8678055A82D}|VehicleDataManagerLibrary\\VehicleDataManagerLibrary.csproj|solutionrelative:vehicledatamanagerlibrary\\vehicledatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D73967C-2CFA-4ACF-A525-D8678055A82D}|VehicleDataManagerLibrary\\VehicleDataManagerLibrary.csproj|D:\\Docs\\Training\\Intro_To_Visual_Studio_Debugging\\Intro_To_Visual_Studio_Debugging\\vehicledatamanagerlibrary\\vehicledatamanagerlibrary.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{0D73967C-2CFA-4ACF-A525-D8678055A82D}|VehicleDataManagerLibrary\\VehicleDataManagerLibrary.csproj|solutionrelative:vehicledatamanagerlibrary\\vehicledatamanagerlibrary.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D73967C-2CFA-4ACF-A525-D8678055A82D}|VehicleDataManagerLibrary\\VehicleDataManagerLibrary.csproj|D:\\Docs\\Training\\Intro_To_Visual_Studio_Debugging\\Intro_To_Visual_Studio_Debugging\\vehicledatamanagerlibrary\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D73967C-2CFA-4ACF-A525-D8678055A82D}|VehicleDataManagerLibrary\\VehicleDataManagerLibrary.csproj|solutionrelative:vehicledatamanagerlibrary\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Docs\\Training\\Intro_To_Visual_Studio_Debugging\\Intro_To_Visual_Studio_Debugging\\IntroToVisualStudioDebugging\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "IntroToVisualStudioDebugging\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Docs\\Training\\Intro_To_Visual_Studio_Debugging\\Intro_To_Visual_Studio_Debugging\\IntroToVisualStudioDebugging\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "IntroToVisualStudioDebugging\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAApwFMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T13:44:18.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IntroToVisualStudioDebugging",
+              "DocumentMoniker": "D:\\Docs\\Training\\Intro_To_Visual_Studio_Debugging\\Intro_To_Visual_Studio_Debugging\\IntroToVisualStudioDebugging\\IntroToVisualStudioDebugging.csproj",
+              "RelativeDocumentMoniker": "IntroToVisualStudioDebugging\\IntroToVisualStudioDebugging.csproj",
+              "ToolTip": "D:\\Docs\\Training\\Intro_To_Visual_Studio_Debugging\\Intro_To_Visual_Studio_Debugging\\IntroToVisualStudioDebugging\\IntroToVisualStudioDebugging.csproj",
+              "RelativeToolTip": "IntroToVisualStudioDebugging\\IntroToVisualStudioDebugging.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-02-22T13:51:39.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "vehicles.json",
+              "DocumentMoniker": "D:\\Docs\\Training\\Intro_To_Visual_Studio_Debugging\\Intro_To_Visual_Studio_Debugging\\IntroToVisualStudioDebugging\\vehicles.json",
+              "RelativeDocumentMoniker": "IntroToVisualStudioDebugging\\vehicles.json",
+              "ToolTip": "D:\\Docs\\Training\\Intro_To_Visual_Studio_Debugging\\Intro_To_Visual_Studio_Debugging\\IntroToVisualStudioDebugging\\vehicles.json",
+              "RelativeToolTip": "IntroToVisualStudioDebugging\\vehicles.json",
+              "ViewState": "AQIAABkAAAAAAAAAAAAqwCIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-22T13:48:38.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\Docs\\Training\\Intro_To_Visual_Studio_Debugging\\Intro_To_Visual_Studio_Debugging\\IntroToVisualStudioDebugging\\packages.config",
+              "RelativeDocumentMoniker": "IntroToVisualStudioDebugging\\packages.config",
+              "ToolTip": "D:\\Docs\\Training\\Intro_To_Visual_Studio_Debugging\\Intro_To_Visual_Studio_Debugging\\IntroToVisualStudioDebugging\\packages.config",
+              "RelativeToolTip": "IntroToVisualStudioDebugging\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-02-23T03:05:25.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "vehicles_backup.json",
+              "DocumentMoniker": "D:\\Docs\\Training\\Intro_To_Visual_Studio_Debugging\\Intro_To_Visual_Studio_Debugging\\IntroToVisualStudioDebugging\\vehicles_backup.json",
+              "RelativeDocumentMoniker": "IntroToVisualStudioDebugging\\vehicles_backup.json",
+              "ToolTip": "D:\\Docs\\Training\\Intro_To_Visual_Studio_Debugging\\Intro_To_Visual_Studio_Debugging\\IntroToVisualStudioDebugging\\vehicles_backup.json",
+              "RelativeToolTip": "IntroToVisualStudioDebugging\\vehicles_backup.json",
+              "ViewState": "AQIAABQAAAAAAAAAAAAiwCIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-23T02:49:47.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VehicleDataManagerLibrary",
+              "DocumentMoniker": "D:\\Docs\\Training\\Intro_To_Visual_Studio_Debugging\\Intro_To_Visual_Studio_Debugging\\VehicleDataManagerLibrary\\VehicleDataManagerLibrary.csproj",
+              "RelativeDocumentMoniker": "VehicleDataManagerLibrary\\VehicleDataManagerLibrary.csproj",
+              "ToolTip": "D:\\Docs\\Training\\Intro_To_Visual_Studio_Debugging\\Intro_To_Visual_Studio_Debugging\\VehicleDataManagerLibrary\\VehicleDataManagerLibrary.csproj",
+              "RelativeToolTip": "VehicleDataManagerLibrary\\VehicleDataManagerLibrary.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-22T17:22:46.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "D:\\Docs\\Training\\Intro_To_Visual_Studio_Debugging\\Intro_To_Visual_Studio_Debugging\\VehicleDataManagerLibrary\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "VehicleDataManagerLibrary\\Models\\Vehicle.cs",
+              "ToolTip": "D:\\Docs\\Training\\Intro_To_Visual_Studio_Debugging\\Intro_To_Visual_Studio_Debugging\\VehicleDataManagerLibrary\\Models\\Vehicle.cs",
+              "RelativeToolTip": "VehicleDataManagerLibrary\\Models\\Vehicle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T14:00:15.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VehicleDataManager.cs",
+              "DocumentMoniker": "D:\\Docs\\Training\\Intro_To_Visual_Studio_Debugging\\Intro_To_Visual_Studio_Debugging\\VehicleDataManagerLibrary\\VehicleDataManager.cs",
+              "RelativeDocumentMoniker": "VehicleDataManagerLibrary\\VehicleDataManager.cs",
+              "ToolTip": "D:\\Docs\\Training\\Intro_To_Visual_Studio_Debugging\\Intro_To_Visual_Studio_Debugging\\VehicleDataManagerLibrary\\VehicleDataManager.cs",
+              "RelativeToolTip": "VehicleDataManagerLibrary\\VehicleDataManager.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAwwBcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T14:00:16.452Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 812,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+C:\Users\craskar\source\repos\EssentialTraining\EssentialTraining\bin\Debug\net8.0\EssentialTraining.deps.json
+C:\Users\craskar\source\repos\EssentialTraining\EssentialTraining\bin\Debug\net8.0\EssentialTraining.dll
+C:\Users\craskar\source\repos\EssentialTraining\EssentialTraining\bin\Debug\net8.0\EssentialTraining.pdb
+C:\Users\craskar\source\repos\EssentialTraining\EssentialTraining\obj\Debug\net8.0\EssentialTraining.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\craskar\source\repos\EssentialTraining\EssentialTraining\obj\Debug\net8.0\EssentialTraining.AssemblyInfoInputs.cache
+C:\Users\craskar\source\repos\EssentialTraining\EssentialTraining\obj\Debug\net8.0\EssentialTraining.AssemblyInfo.cs
+C:\Users\craskar\source\repos\EssentialTraining\EssentialTraining\obj\Debug\net8.0\EssentialTraining.csproj.CoreCompileInputs.cache
+C:\Users\craskar\source\repos\EssentialTraining\EssentialTraining\obj\Debug\net8.0\EssentialTraining.dll
+C:\Users\craskar\source\repos\EssentialTraining\EssentialTraining\obj\Debug\net8.0\refint\EssentialTraining.dll
+C:\Users\craskar\source\repos\EssentialTraining\EssentialTraining\obj\Debug\net8.0\EssentialTraining.pdb
+C:\Users\craskar\source\repos\EssentialTraining\EssentialTraining\obj\Debug\net8.0\ref\EssentialTraining.dll

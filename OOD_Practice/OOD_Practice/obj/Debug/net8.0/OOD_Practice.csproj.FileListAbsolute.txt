@@ -1,0 +1,14 @@
+C:\Users\craskar\source\repos\OOD_Practice\OOD_Practice\bin\Debug\net8.0\OOD_Practice.exe
+C:\Users\craskar\source\repos\OOD_Practice\OOD_Practice\bin\Debug\net8.0\OOD_Practice.deps.json
+C:\Users\craskar\source\repos\OOD_Practice\OOD_Practice\bin\Debug\net8.0\OOD_Practice.runtimeconfig.json
+C:\Users\craskar\source\repos\OOD_Practice\OOD_Practice\bin\Debug\net8.0\OOD_Practice.dll
+C:\Users\craskar\source\repos\OOD_Practice\OOD_Practice\bin\Debug\net8.0\OOD_Practice.pdb
+C:\Users\craskar\source\repos\OOD_Practice\OOD_Practice\obj\Debug\net8.0\OOD_Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\craskar\source\repos\OOD_Practice\OOD_Practice\obj\Debug\net8.0\OOD_Practice.AssemblyInfoInputs.cache
+C:\Users\craskar\source\repos\OOD_Practice\OOD_Practice\obj\Debug\net8.0\OOD_Practice.AssemblyInfo.cs
+C:\Users\craskar\source\repos\OOD_Practice\OOD_Practice\obj\Debug\net8.0\OOD_Practice.csproj.CoreCompileInputs.cache
+C:\Users\craskar\source\repos\OOD_Practice\OOD_Practice\obj\Debug\net8.0\OOD_Practice.dll
+C:\Users\craskar\source\repos\OOD_Practice\OOD_Practice\obj\Debug\net8.0\refint\OOD_Practice.dll
+C:\Users\craskar\source\repos\OOD_Practice\OOD_Practice\obj\Debug\net8.0\OOD_Practice.pdb
+C:\Users\craskar\source\repos\OOD_Practice\OOD_Practice\obj\Debug\net8.0\OOD_Practice.genruntimeconfig.cache
+C:\Users\craskar\source\repos\OOD_Practice\OOD_Practice\obj\Debug\net8.0\ref\OOD_Practice.dll

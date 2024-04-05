@@ -1,0 +1,51 @@
+﻿@model IEnumerable<VehicleDataManagerLibrary.Models.Vehicle>
+
+@{
+    ViewBag.Title = "Vehicles";
+}
+
+<h2>Vehicles</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>DisplayName</th>
+        <th>RegistrationNumber</th>
+        <th>VIN</th>
+        <th>Contact Number</th>
+        <th>Model</th>
+        <th>TrackingUnitId</th> 
+    </tr>
+
+@foreach (var item in Model) {
+<tr>
+    <td>
+        @item.DisplayName
+    </td>
+    <td>
+        @item.RegistrationNumber
+    </td>
+    <td>
+        @item.VIN
+    </td>
+    <td>
+        @item.ContactNumber
+    </td>
+    <td>
+        @item.VehicleModel
+    </td>
+    <td>
+        @item.TrackingUnitId
+    </td>
+     
+    <td>
+        @Html.ActionLink("Edit", "Edit", new { vehicleId = item.VehicleId }) |
+        @Html.ActionLink("Details", "Details", new { vehicleId = item.VehicleId }) |
+        @Html.ActionLink("Delete", "Delete", new { vehicleId = item.VehicleId })
+    </td>
+</tr>
+}
+
+</table>

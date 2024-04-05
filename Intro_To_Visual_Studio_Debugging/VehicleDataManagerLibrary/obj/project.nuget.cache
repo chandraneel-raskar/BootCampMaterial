@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "fpEKUUos97wKKdSC9P+Az5ZnUY/idewacg/IfwMGi5hNszOoNEdX6M59WkjCPQzd/avKms0zyDkm5Qhqj4L5Lw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\craskar\\source\\repos\\Intro_To_Visual_Studio_Debugging\\VehicleDataManagerLibrary\\VehicleDataManagerLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\craskar\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\craskar\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\craskar\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

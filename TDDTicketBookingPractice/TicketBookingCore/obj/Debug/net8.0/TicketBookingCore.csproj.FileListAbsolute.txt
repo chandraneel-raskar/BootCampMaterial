@@ -1,0 +1,11 @@
+C:\Users\craskar\source\repos\TDDTicketBookingPractice\TicketBookingCore\bin\Debug\net8.0\TicketBookingCore.deps.json
+C:\Users\craskar\source\repos\TDDTicketBookingPractice\TicketBookingCore\bin\Debug\net8.0\TicketBookingCore.dll
+C:\Users\craskar\source\repos\TDDTicketBookingPractice\TicketBookingCore\bin\Debug\net8.0\TicketBookingCore.pdb
+C:\Users\craskar\source\repos\TDDTicketBookingPractice\TicketBookingCore\obj\Debug\net8.0\TicketBookingCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\craskar\source\repos\TDDTicketBookingPractice\TicketBookingCore\obj\Debug\net8.0\TicketBookingCore.AssemblyInfoInputs.cache
+C:\Users\craskar\source\repos\TDDTicketBookingPractice\TicketBookingCore\obj\Debug\net8.0\TicketBookingCore.AssemblyInfo.cs
+C:\Users\craskar\source\repos\TDDTicketBookingPractice\TicketBookingCore\obj\Debug\net8.0\TicketBookingCore.csproj.CoreCompileInputs.cache
+C:\Users\craskar\source\repos\TDDTicketBookingPractice\TicketBookingCore\obj\Debug\net8.0\TicketBookingCore.dll
+C:\Users\craskar\source\repos\TDDTicketBookingPractice\TicketBookingCore\obj\Debug\net8.0\refint\TicketBookingCore.dll
+C:\Users\craskar\source\repos\TDDTicketBookingPractice\TicketBookingCore\obj\Debug\net8.0\TicketBookingCore.pdb
+C:\Users\craskar\source\repos\TDDTicketBookingPractice\TicketBookingCore\obj\Debug\net8.0\ref\TicketBookingCore.dll

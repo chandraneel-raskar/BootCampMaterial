@@ -1,0 +1,63 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\craskar\\source\\repos\\MyFirstWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FDFD0C4-D693-4259-91E3-77CEA6F4B4BD}|MyFirstWebApi\\MyFirstWebApi.csproj|c:\\users\\craskar\\source\\repos\\myfirstwebapi\\myfirstwebapi\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FDFD0C4-D693-4259-91E3-77CEA6F4B4BD}|MyFirstWebApi\\MyFirstWebApi.csproj|solutionrelative:myfirstwebapi\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FDFD0C4-D693-4259-91E3-77CEA6F4B4BD}|MyFirstWebApi\\MyFirstWebApi.csproj|c:\\users\\craskar\\source\\repos\\myfirstwebapi\\myfirstwebapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FDFD0C4-D693-4259-91E3-77CEA6F4B4BD}|MyFirstWebApi\\MyFirstWebApi.csproj|solutionrelative:myfirstwebapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 136,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\craskar\\source\\repos\\MyFirstWebApi\\MyFirstWebApi\\Student.cs",
+              "RelativeDocumentMoniker": "MyFirstWebApi\\Student.cs",
+              "ToolTip": "C:\\Users\\craskar\\source\\repos\\MyFirstWebApi\\MyFirstWebApi\\Student.cs",
+              "RelativeToolTip": "MyFirstWebApi\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T04:54:37.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\craskar\\source\\repos\\MyFirstWebApi\\MyFirstWebApi\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "MyFirstWebApi\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\craskar\\source\\repos\\MyFirstWebApi\\MyFirstWebApi\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "MyFirstWebApi\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T04:52:23.126Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 158,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

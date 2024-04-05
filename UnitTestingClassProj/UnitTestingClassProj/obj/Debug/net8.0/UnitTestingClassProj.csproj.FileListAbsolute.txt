@@ -1,0 +1,14 @@
+C:\Users\craskar\source\repos\UnitTestingClassProj\UnitTestingClassProj\bin\Debug\net8.0\UnitTestingClassProj.exe
+C:\Users\craskar\source\repos\UnitTestingClassProj\UnitTestingClassProj\bin\Debug\net8.0\UnitTestingClassProj.deps.json
+C:\Users\craskar\source\repos\UnitTestingClassProj\UnitTestingClassProj\bin\Debug\net8.0\UnitTestingClassProj.runtimeconfig.json
+C:\Users\craskar\source\repos\UnitTestingClassProj\UnitTestingClassProj\bin\Debug\net8.0\UnitTestingClassProj.dll
+C:\Users\craskar\source\repos\UnitTestingClassProj\UnitTestingClassProj\bin\Debug\net8.0\UnitTestingClassProj.pdb
+C:\Users\craskar\source\repos\UnitTestingClassProj\UnitTestingClassProj\obj\Debug\net8.0\UnitTestingClassProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\craskar\source\repos\UnitTestingClassProj\UnitTestingClassProj\obj\Debug\net8.0\UnitTestingClassProj.AssemblyInfoInputs.cache
+C:\Users\craskar\source\repos\UnitTestingClassProj\UnitTestingClassProj\obj\Debug\net8.0\UnitTestingClassProj.AssemblyInfo.cs
+C:\Users\craskar\source\repos\UnitTestingClassProj\UnitTestingClassProj\obj\Debug\net8.0\UnitTestingClassProj.csproj.CoreCompileInputs.cache
+C:\Users\craskar\source\repos\UnitTestingClassProj\UnitTestingClassProj\obj\Debug\net8.0\UnitTestingClassProj.dll
+C:\Users\craskar\source\repos\UnitTestingClassProj\UnitTestingClassProj\obj\Debug\net8.0\refint\UnitTestingClassProj.dll
+C:\Users\craskar\source\repos\UnitTestingClassProj\UnitTestingClassProj\obj\Debug\net8.0\UnitTestingClassProj.pdb
+C:\Users\craskar\source\repos\UnitTestingClassProj\UnitTestingClassProj\obj\Debug\net8.0\UnitTestingClassProj.genruntimeconfig.cache
+C:\Users\craskar\source\repos\UnitTestingClassProj\UnitTestingClassProj\obj\Debug\net8.0\ref\UnitTestingClassProj.dll

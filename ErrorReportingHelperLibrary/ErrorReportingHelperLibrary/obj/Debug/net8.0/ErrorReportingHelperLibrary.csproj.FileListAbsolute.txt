@@ -1,0 +1,12 @@
+C:\Users\craskar\source\repos\ErrorReportingHelperLibrary\ErrorReportingHelperLibrary\bin\Debug\net8.0\ErrorReportingHelperLibrary.deps.json
+C:\Users\craskar\source\repos\ErrorReportingHelperLibrary\ErrorReportingHelperLibrary\bin\Debug\net8.0\ErrorReportingHelperLibrary.dll
+C:\Users\craskar\source\repos\ErrorReportingHelperLibrary\ErrorReportingHelperLibrary\bin\Debug\net8.0\ErrorReportingHelperLibrary.pdb
+C:\Users\craskar\source\repos\ErrorReportingHelperLibrary\ErrorReportingHelperLibrary\obj\Debug\net8.0\ErrorReportingHelperLibrary.csproj.AssemblyReference.cache
+C:\Users\craskar\source\repos\ErrorReportingHelperLibrary\ErrorReportingHelperLibrary\obj\Debug\net8.0\ErrorReportingHelperLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\craskar\source\repos\ErrorReportingHelperLibrary\ErrorReportingHelperLibrary\obj\Debug\net8.0\ErrorReportingHelperLibrary.AssemblyInfoInputs.cache
+C:\Users\craskar\source\repos\ErrorReportingHelperLibrary\ErrorReportingHelperLibrary\obj\Debug\net8.0\ErrorReportingHelperLibrary.AssemblyInfo.cs
+C:\Users\craskar\source\repos\ErrorReportingHelperLibrary\ErrorReportingHelperLibrary\obj\Debug\net8.0\ErrorReportingHelperLibrary.csproj.CoreCompileInputs.cache
+C:\Users\craskar\source\repos\ErrorReportingHelperLibrary\ErrorReportingHelperLibrary\obj\Debug\net8.0\ErrorReportingHelperLibrary.dll
+C:\Users\craskar\source\repos\ErrorReportingHelperLibrary\ErrorReportingHelperLibrary\obj\Debug\net8.0\refint\ErrorReportingHelperLibrary.dll
+C:\Users\craskar\source\repos\ErrorReportingHelperLibrary\ErrorReportingHelperLibrary\obj\Debug\net8.0\ErrorReportingHelperLibrary.pdb
+C:\Users\craskar\source\repos\ErrorReportingHelperLibrary\ErrorReportingHelperLibrary\obj\Debug\net8.0\ref\ErrorReportingHelperLibrary.dll

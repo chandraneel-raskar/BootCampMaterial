@@ -1,0 +1,80 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\craskar\\source\\repos\\MyWeatherApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{376D3E10-F54E-450C-A912-81AA652239EF}|MyWeatherApp\\MyWeatherApp.csproj|c:\\users\\craskar\\source\\repos\\myweatherapp\\myweatherapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{376D3E10-F54E-450C-A912-81AA652239EF}|MyWeatherApp\\MyWeatherApp.csproj|solutionrelative:myweatherapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{376D3E10-F54E-450C-A912-81AA652239EF}|MyWeatherApp\\MyWeatherApp.csproj|c:\\users\\craskar\\source\\repos\\myweatherapp\\myweatherapp\\weatherinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{376D3E10-F54E-450C-A912-81AA652239EF}|MyWeatherApp\\MyWeatherApp.csproj|solutionrelative:myweatherapp\\weatherinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{376D3E10-F54E-450C-A912-81AA652239EF}|MyWeatherApp\\MyWeatherApp.csproj|c:\\users\\craskar\\source\\repos\\myweatherapp\\myweatherapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{376D3E10-F54E-450C-A912-81AA652239EF}|MyWeatherApp\\MyWeatherApp.csproj|solutionrelative:myweatherapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 136,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\craskar\\source\\repos\\MyWeatherApp\\MyWeatherApp\\Form1.cs",
+              "RelativeDocumentMoniker": "MyWeatherApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\craskar\\source\\repos\\MyWeatherApp\\MyWeatherApp\\Form1.cs [Design]",
+              "RelativeToolTip": "MyWeatherApp\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T10:20:45.912Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherInfo.cs",
+              "DocumentMoniker": "C:\\Users\\craskar\\source\\repos\\MyWeatherApp\\MyWeatherApp\\WeatherInfo.cs",
+              "RelativeDocumentMoniker": "MyWeatherApp\\WeatherInfo.cs",
+              "ToolTip": "C:\\Users\\craskar\\source\\repos\\MyWeatherApp\\MyWeatherApp\\WeatherInfo.cs",
+              "RelativeToolTip": "MyWeatherApp\\WeatherInfo.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAUwCMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T09:38:24.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\craskar\\source\\repos\\MyWeatherApp\\MyWeatherApp\\Form1.cs",
+              "RelativeDocumentMoniker": "MyWeatherApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\craskar\\source\\repos\\MyWeatherApp\\MyWeatherApp\\Form1.cs",
+              "RelativeToolTip": "MyWeatherApp\\Form1.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAEwC0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T09:12:48.522Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 158,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

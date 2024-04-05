@@ -1,0 +1,14 @@
+C:\Users\craskar\source\repos\CsvFileValidation\CsvFileValidation\obj\Debug\net8.0\CsvFileValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\craskar\source\repos\CsvFileValidation\CsvFileValidation\obj\Debug\net8.0\CsvFileValidation.AssemblyInfoInputs.cache
+C:\Users\craskar\source\repos\CsvFileValidation\CsvFileValidation\obj\Debug\net8.0\CsvFileValidation.AssemblyInfo.cs
+C:\Users\craskar\source\repos\CsvFileValidation\CsvFileValidation\obj\Debug\net8.0\CsvFileValidation.csproj.CoreCompileInputs.cache
+C:\Users\craskar\source\repos\CsvFileValidation\CsvFileValidation\bin\Debug\net8.0\CsvFileValidation.exe
+C:\Users\craskar\source\repos\CsvFileValidation\CsvFileValidation\bin\Debug\net8.0\CsvFileValidation.deps.json
+C:\Users\craskar\source\repos\CsvFileValidation\CsvFileValidation\bin\Debug\net8.0\CsvFileValidation.runtimeconfig.json
+C:\Users\craskar\source\repos\CsvFileValidation\CsvFileValidation\bin\Debug\net8.0\CsvFileValidation.dll
+C:\Users\craskar\source\repos\CsvFileValidation\CsvFileValidation\bin\Debug\net8.0\CsvFileValidation.pdb
+C:\Users\craskar\source\repos\CsvFileValidation\CsvFileValidation\obj\Debug\net8.0\CsvFileValidation.dll
+C:\Users\craskar\source\repos\CsvFileValidation\CsvFileValidation\obj\Debug\net8.0\refint\CsvFileValidation.dll
+C:\Users\craskar\source\repos\CsvFileValidation\CsvFileValidation\obj\Debug\net8.0\CsvFileValidation.pdb
+C:\Users\craskar\source\repos\CsvFileValidation\CsvFileValidation\obj\Debug\net8.0\CsvFileValidation.genruntimeconfig.cache
+C:\Users\craskar\source\repos\CsvFileValidation\CsvFileValidation\obj\Debug\net8.0\ref\CsvFileValidation.dll

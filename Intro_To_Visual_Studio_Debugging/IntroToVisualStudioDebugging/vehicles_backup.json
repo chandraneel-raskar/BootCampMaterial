@@ -1,0 +1,35 @@
+[
+  {
+    "VehicleId": "1",
+    "DisplayName": "Test Vehicle1",
+    "RegistrationNumber": "MH12AB1234",
+    "VIN": "VIN2132324343",
+    "ContactNumber": "1234567890",
+    "VehicleModel": "TRUCK",
+    "TrackingUnitId": "TU11111111111",
+    "CreatedDateTime": "2021-07-08T05:52:06.8650948+01:00",
+    "UpdatedDateTime": "2021-07-08T05:52:06.8650948+01:00"
+  },
+  {
+    "VehicleId": "2",
+    "DisplayName": "Test Vehicle2",
+    "RegistrationNumber": "MH14AB1235",
+    "VIN": "VIN213234345",
+    "ContactNumber": "098765432",
+    "VehicleModel": "TRAILER",
+    "TrackingUnitId": "TU222222222222",
+    "CreatedDateTime": "2021-07-08T05:52:06.8650948+01:00",
+    "UpdatedDateTime": "2021-07-08T05:52:06.8650948+01:00"
+  },
+  {
+    "VehicleId": "3",
+    "DisplayName": "Test Vehicle3",
+    "RegistrationNumber": "MH35AB1234",
+    "VIN": "VIN2132324444",
+    "ContactNumber": "543543656",
+    "VehicleModel": "TRUCK",
+    "TrackingUnitId": "TU3333333333",
+    "CreatedDateTime": "2021-07-08T05:52:06.8650948+01:00",
+    "UpdatedDateTime": "2021-07-08T05:52:06.8650948+01:00"
+  }
+]
